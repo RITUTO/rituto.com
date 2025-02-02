@@ -1,0 +1,3 @@
+ 16:42:39 Log [Logger] Server is running on port 8080
+ 16:42:40 Log [Logger] rituto.com管理#1262でログインしました
+ 16:42:40 Log [Logger] スラッシュコマンドを登録しました

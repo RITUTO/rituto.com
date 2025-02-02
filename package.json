@@ -1,0 +1,20 @@
+{
+  "name": "newwebserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "discord.js": "^14.17.3",
+    "express": "^4.21.2",
+    "kysely": "^0.27.5",
+    "moment-timezone": "^0.5.47",
+    "socket.io": "^4.8.1"
+  }
+}
